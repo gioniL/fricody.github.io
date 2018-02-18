@@ -1,0 +1,18 @@
+body,html {
+	height: 100%;
+}
+header.startup {
+	background-image: url(landing.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 100%;
+}
+.transparent {
+	color: rgba(30,30,76,0.7);
+}
+h1 {
+	/*text-align: center;*/
+}
+hr {
+	margin-top: 30%;
+}
